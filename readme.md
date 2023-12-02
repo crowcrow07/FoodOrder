@@ -1,5 +1,8 @@
 # FoodOrder
 
+![화면 기록 2023-12-02 오전 11 19 55](https://github.com/crowcrow07/FoodOrder/assets/88226519/2fe29bd2-2ea1-458b-a9e3-428fe2263336)
+
+
 - 제작 기간 : 2일
 - 사용한 기술스택 : 리액트
   -> 리액트 기초 복습을 위해 제작
